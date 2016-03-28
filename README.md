@@ -5,7 +5,10 @@
 * [如何成為一名卓越的前端工程師](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=403238396&idx=1&sn=4f35f9c565d5302984aab77c441d0038&scene=0#wechat_redirect)
 * [有哪些經常被誤用的 HTML、JavaScript、CSS 的元素、方法和屬性？](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=403197214&idx=1&sn=11f7d50693bec722086c293fe896a7b3&scene=0#wechat_redirect)
 * [理解 JavaScript 中的依賴注入](http://www.html-js.com/article/A-day-to-learn-JavaScript-understand-dependency-injection-in-JavaScript)
-
+* [讓你分分鐘學會 javascript 閉包](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=403569151&idx=1&sn=501a38c3e80e411536a4fe024365b57c&scene=0#wechat_redirect)
+* [腳本的無阻塞加載策略](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=403691081&idx=1&sn=29b46db023ab9635d88132ea5c2a26fd&scene=0#wechat_redirect)
+* [9 張思維導圖帶你學習 Javascript](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=403691081&idx=1&sn=29b46db023ab9635d88132ea5c2a26fd&scene=0#wechat_redirect)
+* [ jQuery源碼淺析 - 整體架構](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=403717032&idx=1&sn=214242b1cc788d6b9c5c6e57a006d307&scene=0#wechat_redirect)
 
 ## Back end
 
