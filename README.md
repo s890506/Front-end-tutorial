@@ -9,7 +9,8 @@
 * [腳本的無阻塞加載策略](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=403691081&idx=1&sn=29b46db023ab9635d88132ea5c2a26fd&scene=0#wechat_redirect)
 * [9 張思維導圖帶你學習 Javascript](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=403691081&idx=1&sn=29b46db023ab9635d88132ea5c2a26fd&scene=0#wechat_redirect)
 * [ jQuery源碼淺析 - 整體架構](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=403717032&idx=1&sn=214242b1cc788d6b9c5c6e57a006d307&scene=0#wechat_redirect)
-* [CN 2016 前端開發者大會](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=403733552&idx=1&sn=96dfee437727410669caec9a07d3ccd0&scene=0#wechat_redirect) [文件位置](http://pan.baidu.com/s/1o7X0LHS#path=%252F)
+* [CN 2016 前端開發者大會](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=403733552&idx=1&sn=96dfee437727410669caec9a07d3ccd0&scene=0#wechat_redirect) [文件位置](CN 2016 前端開發者大會 投影片(
+https://mega.nz/#!899WFTwL!4sKiM5On_W5LWRGEskquQmA3TkF9AV1hnwNMZMI_1gI)
   * 使用 React、Redux 和 Node.js 構建通用應用
   * 微信 Web APP 開發最佳實踐
   * React tips
