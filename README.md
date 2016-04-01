@@ -17,6 +17,7 @@
   * 前端能力的培養
   * HTTP/2 時代的 Web 性能
 * [JavaScript 開發的 45 個經典技巧](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=403815851&idx=1&sn=aa61f9eb57c59a8d9b21ec1dc2076f8d&scene=0#wechat_redirect)
+* [使用 SVG 輸出 Octicon](http://efe.baidu.com/blog/delivering-octicons-with-svg/)
 
 ## Back end
 
