@@ -18,6 +18,8 @@
   * HTTP/2 時代的 Web 性能
 * [JavaScript 開發的 45 個經典技巧](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=403815851&idx=1&sn=aa61f9eb57c59a8d9b21ec1dc2076f8d&scene=0#wechat_redirect)
 * [使用 SVG 輸出 Octicon](http://efe.baidu.com/blog/delivering-octicons-with-svg/)
+* [移動端尺寸基礎知識](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=403960227&idx=1&sn=a8ac248d34da6781eb2c81eab738a6fd&scene=0#wechat_redirect)
+* [H5 DOM 元素類名相關操作 API classList 簡介](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=403981676&idx=1&sn=8425d337ed95c51d42462c7ae45a8fca&scene=0#wechat_redirect)
 
 ## Back end
 
