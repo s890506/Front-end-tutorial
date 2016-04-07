@@ -20,6 +20,7 @@
 * [使用 SVG 輸出 Octicon](http://efe.baidu.com/blog/delivering-octicons-with-svg/)
 * [移動端尺寸基礎知識](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=403960227&idx=1&sn=a8ac248d34da6781eb2c81eab738a6fd&scene=0#wechat_redirect)
 * [H5 DOM 元素類名相關操作 API classList 簡介](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=403981676&idx=1&sn=8425d337ed95c51d42462c7ae45a8fca&scene=0#wechat_redirect)
+* [移動 web 適配利器 - rem](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=404009356&idx=1&sn=e3218b95b78a5f043e7b0e3df49703d3&scene=0#wechat_redirect)
 
 ## Back end
 
