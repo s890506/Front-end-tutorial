@@ -36,3 +36,6 @@
 ## Testing
 
 * [移動端真機調試終極利器 - BrowserSync](http://www.codingserf.com/index.php/2015/03/browsersync/)
+
+## IDE
+* [Visual Studio Code Guide](https://github.com/i5ting/vsc)
