@@ -24,10 +24,14 @@
 
 ## Back end
 
+* [全棧工程師之路 - Node.js](https://github.com/i5ting/nodejs-fullstack)
 * [Node.js 面試題](http://mp.weixin.qq.com/s?__biz=MzAxMTU0NTc4Nw==&mid=412272275&idx=1&sn=2930818abdee0e2e6e46d671314b8117&scene=0#wechat_redirect)
 * [企業級 Node.js Web 應用解決方案設計的零零總總](http://mp.weixin.qq.com/s?__biz=MzI0MzA3MDQ2OA==&mid=412689225&idx=1&sn=1894dd0508aae03731aafbca0a9417e4&scene=0#wechat_redirect)
 * [Node.js 框架：Koa 2 實用入門](http://mp.weixin.qq.com/s?__biz=MzAxMTU0NTc4Nw==&mid=413630508&idx=1&sn=1da736756a3dc817280e6a331a027fdb&scene=0#wechat_redirect)
 * [Node.js 框架：Koa 2 實例 demo](http://mp.weixin.qq.com/s?__biz=MzAxMTU0NTc4Nw==&mid=413673447&idx=1&sn=a469a6aeef1b2bf492bc8f1e7d063907&scene=0#wechat_redirect)
+
+## Mobile
+* [ionic_ninja](https://github.com/i5ting/ionic_ninja)
 
 ## Testing
 
