@@ -22,6 +22,8 @@
 * [H5 DOM 元素類名相關操作 API classList 簡介](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=403981676&idx=1&sn=8425d337ed95c51d42462c7ae45a8fca&scene=0#wechat_redirect)
 * [移動 web 適配利器 - rem](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=404009356&idx=1&sn=e3218b95b78a5f043e7b0e3df49703d3&scene=0#wechat_redirect)
 * 自學 sketch 指南([教學](http://i5ting.github.io/sketch-practice/)) ([代碼](https://github.com/i5ting/sketch-practice))
+* [如何使用 Virtual DOM 實作 MVVM](http://oranwind.org/node-js-how-to-use-node-js-workflow-zhuang-tai-ji/)
+
 
 ## Back end
 
