@@ -23,6 +23,7 @@
 * [移動 web 適配利器 - rem](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=404009356&idx=1&sn=e3218b95b78a5f043e7b0e3df49703d3&scene=0#wechat_redirect)
 * 自學 sketch 指南([教學](http://i5ting.github.io/sketch-practice/)) ([代碼](https://github.com/i5ting/sketch-practice))
 * [如何使用 Virtual DOM 實作 MVVM](http://oranwind.org/node-js-how-to-use-node-js-workflow-zhuang-tai-ji/)
+* [作為一個專業的前端或者全棧工程師，你真的瞭解 HTML head 麼？](http://mp.weixin.qq.com/s?__biz=MzAxMTU0NTc4Nw==&mid=2661157117&idx=1&sn=d4fa54b59c459eb422c582d178b27bfd&scene=0#wechat_redirect)
 
 
 ## Back end
