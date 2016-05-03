@@ -48,6 +48,7 @@
 ## Testing
 
 * [移動端真機調試終極利器 - BrowserSync](http://www.codingserf.com/index.php/2015/03/browsersync/)
+* [Node.js Web 框架性能壓測大比拚: koa 2 vs koa 1 vs express](http://mp.weixin.qq.com/s?__biz=MzAxMTU0NTc4Nw==&mid=2661157144&idx=1&sn=077aed6f87d3e8b7f902f230df559c51&scene=0#wechat_redirect)
 
 ## IDE
 * [Visual Studio Code Guide](https://github.com/i5ting/vsc)
