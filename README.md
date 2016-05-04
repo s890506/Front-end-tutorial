@@ -41,6 +41,7 @@
 ## Common
 * [開源 js 項目推薦：無任何依賴的 string 操作庫](http://mp.weixin.qq.com/s?__biz=MzAxMTU0NTc4Nw==&mid=2661157120&idx=1&sn=3f13287629a025fc062464e99d34e65d&scene=0#wechat_redirect)
 * [使用 git 和 github 進行協同開發流程](https://github.com/livoras/blog/issues/7)
+* [深入 Math.random()](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651493009&idx=1&sn=bad5ce32380930931f8afae6e65903a5&scene=0#wechat_redirect)
 
 ## Mobile
 * [ionic_ninja](https://github.com/i5ting/ionic_ninja)
