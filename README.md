@@ -43,6 +43,7 @@
 * [使用 git 和 github 進行協同開發流程](https://github.com/livoras/blog/issues/7)
 * [常用 Git 命令清單](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651493012&idx=1&sn=c16c29ffc143fc63c596979f2870d3b9&scene=0#wechat_redirect)
 * [深入 Math.random()](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651493009&idx=1&sn=bad5ce32380930931f8afae6e65903a5&scene=0#wechat_redirect)
+* [JavaScript 創建對象的 7 種模式](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651493018&idx=1&sn=f28e3649323e268766c26b98d593cd87&scene=0#wechat_redirect)
 
 ## Mobile
 * [ionic_ninja](https://github.com/i5ting/ionic_ninja)
