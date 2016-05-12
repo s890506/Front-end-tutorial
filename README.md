@@ -38,6 +38,7 @@
 * [Node.js 框架：Koa 2 實例 demo](http://mp.weixin.qq.com/s?__biz=MzAxMTU0NTc4Nw==&mid=413673447&idx=1&sn=a469a6aeef1b2bf492bc8f1e7d063907&scene=0#wechat_redirect)
 * [快速抓取網站截圖](http://mp.weixin.qq.com/s?__biz=MzAxMTU0NTc4Nw==&mid=2661157110&idx=1&sn=17c74bd2ab65536354fb6feab196c1d8&scene=0#wechat_redirect)
 * [如何定位 Node.js 的內存洩漏](http://mp.weixin.qq.com/s?__biz=MzI0MzA3MDQ2OA==&mid=2660172882&idx=1&sn=7ab25bc0f4efef0c989ab3b3982b2eb5&scene=0#wechat_redirect)
+* [如何自行架設 Parse Server](https://github.com/jollen/blog/issues/10)
 
 ## Common
 * [開源 js 項目推薦：無任何依賴的 string 操作庫](http://mp.weixin.qq.com/s?__biz=MzAxMTU0NTc4Nw==&mid=2661157120&idx=1&sn=3f13287629a025fc062464e99d34e65d&scene=0#wechat_redirect)
