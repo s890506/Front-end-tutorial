@@ -29,6 +29,7 @@
 * [深度剖析：如何實現一個 Virtual DOM 算法](https://github.com/livoras/blog/issues/13)
 * [構建一個使用 Virtual-DOM 的前端模版引擎](https://github.com/livoras/blog/issues/14)
 * [全棧技能之模板引擎入門指南︱Ejs & Jade](http://mp.weixin.qq.com/s?__biz=MzAxMTU0NTc4Nw==&mid=2661157159&idx=1&sn=e933200ba739560a0e2f57d49d8f35c4&scene=0#wechat_redirect)
+* [React 入門實例教程](http://www.ruanyifeng.com/blog/2015/03/react.html)
 
 
 ## Back end
