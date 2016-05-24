@@ -52,6 +52,7 @@
 * [深入 Math.random()](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651493009&idx=1&sn=bad5ce32380930931f8afae6e65903a5&scene=0#wechat_redirect)
 * [JavaScript 創建對象的 7 種模式](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651493018&idx=1&sn=f28e3649323e268766c26b98d593cd87&scene=0#wechat_redirect)
 * [一種 SPA（單頁面應用）架構](https://github.com/livoras/blog/issues/3)
+* [如何有效地使用閉包](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651493025&idx=1&sn=e04df7f9733dcc6ea8afc2de6578731a&scene=0#wechat_redirect)
 
 ## Mobile
 * [ionic_ninja](https://github.com/i5ting/ionic_ninja)
