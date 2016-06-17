@@ -56,6 +56,7 @@
 
 ## Mobile
 * [ionic_ninja](https://github.com/i5ting/ionic_ninja)
+* [40 條常見的移動端 Web 頁面問題解決方案](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651493053&idx=1&sn=8409bc267cd73229425a915f27f6a27f&scene=0)
 
 ## Testing
 
